@@ -6,7 +6,8 @@
 - 🤔 &nbsp; Looking for understand how we improve Software Engineering Education and the impact of Humans Aspects in Software Engineering. 
 - 🎓 &nbsp; Ph.D in Computer Science <a href="www.cin.ufpe.br">UFPE</a>.
 - 💼 &nbsp; Working with **Data Analysis, People Analysis, Software Engineering and Software Engineering Education** at  <a href="https://www.zup.com.br/">Zup Innovation</a>
-- 💼 &nbsp; Assistant Professor (Professor Adjunto) at Faculdade SENAC - Recife
+- 💼 &nbsp; Assistant Professor (Professor Adjunto) at Faculdade SENAC - Recife (UX, Software Engineering and 
+information security)
 - 🌱 &nbsp; Learning more about **Statistic, Python, Pandas and machine learning**.
 
 
@@ -31,6 +32,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Util**
 
