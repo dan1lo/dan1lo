@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Looking for understand how we improve Software Engineering Education and the impact of Humans Aspects in Software Engineering. 
 - 🎓 &nbsp; Ph.D in Computer Science <a href="www.cin.ufpe.br">UFPE</a>.
 - 💼 &nbsp; Working with **Data Analysis, People Analysis, Software Engineering and Software Engineering Education** at  <a href="https://www.zup.com.br/">Zup Innovation</a>
-- 💼 &nbsp; Assistant Professor (Professor Adjunto) at Faculdade SENAC - Recife (UX and Software Engineering)
 - 🌱 &nbsp; Learning more about **Statistic, Python, Pandas and machine learning**.
 
 
