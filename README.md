@@ -7,7 +7,8 @@
 - 🎓 &nbsp; Ph.D in Computer Science <a href="www.cin.ufpe.br">UFPE</a>.
 - 🎓 &nbsp; Currently, Pos-doc Researcher at UFPE (Accessibility for neurodiverse people at Urban Mobility Context) with  <a href="https://www.cin.ufpe.br/~kiev/"> Professor Kiev Gama </a>
 - 💼 &nbsp; Working with **Data Analysis, People Analysis, Software Engineering and Software Engineering Education** at  <a href="https://www.zup.com.br/">Zup Innovation</a>
-- 🌱 &nbsp; Learning more about **Statistic, Python, Pandas and machine learning**.
+- 💼 &nbsp; Professor and Supervisor (Master and Ph.d) at <a href="https://www.cesar.school/">Cesar School</a>
+- 🌱 &nbsp; Learning more about **Statistic, Python, Pandas and Machine Learning**.
 
 
 ![image](https://user-images.githubusercontent.com/1639230/144163372-addb5133-ba1e-4891-80b2-75ee9ee5921d.png)
