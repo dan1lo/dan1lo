@@ -90,9 +90,9 @@ Badges:
 
 ## 🌐 Connect with Me
 
-[![Linkedin: Danilo](https://img.shields.io/badge/-Danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prof-danilo-monteiro/)](https://www.linkedin.com/in/prof-danilo-monteiro/)  
-[![Gmail Badge](https://img.shields.io/badge/-prof.danilo.monteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.danilo.monteiro@gmail.com)](mailto:prof.danilo.monteiro@gmail.com)  
-[![Lattes](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=Curriculum-Lattes&logoColor=white&link=http://lattes.cnpq.br/9054177799378154)](http://lattes.cnpq.br/9054177799378154)  
+[![Linkedin: Danilo](https://img.shields.io/badge/-Danilo%20Monteiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prof-danilo-monteiro/)  
+[![Gmail Badge](https://img.shields.io/badge/-prof.danilo.monteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:prof.danilo.monteiro@gmail.com)  
+[![Lattes](https://img.shields.io/badge/Lattes-CV-yellow?style=flat-square&logo=readthedocs&logoColor=white)](http://lattes.cnpq.br/9054177799378154)  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7393--729X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7393-729X)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=aFIranwAAAAJ&hl=pt-BR)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Danilo-Ribeiro-7)  
