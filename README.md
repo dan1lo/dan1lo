@@ -5,9 +5,13 @@
 
 **I believe that the most impactful technology is the one that understands the people behind the code.**
 
-I'm a PhD in Computer Science working to bridge research and practice—advancing AI in software engineering, creating more human-centered workplaces, and empowering developers through strategic learning.
+I'm a PhD in Computer Science working to bridge research and practice—advancing AI in software engineering, shaping the future of work, and empowering developers through strategic learning.
 
-Currently, I work as a **Research Fellow** at [ZUP Innovation](https://www.zup.com.br/), where I lead applied research on AI-powered developer tools and collaborate with HR to foster learning and well-being through data. I'm also a **professor and supervisor** (MSc and PhD) at [Cesar School](https://www.cesar.school), and I conduct applied research to create **practical, evidence-based models for corporate education in computing**.
+Currently, I work as a **Research Fellow** at [ZUP Innovation](https://www.zup.com.br/), where I lead applied research on AI-powered developer tools and collaborate with HR to foster learning and well-being through data.  
+
+I'm also a **professor and advisor** (Undergraduate, MSc, and PhD) at [Cesar School](https://www.cesar.school), where I supervise research on **AI, future of work, and corporate education in computing**.  
+
+In addition, I coordinate [**BRIDGE-LAB**](https://github.com/BridgeResearchLab), a research group focused on human-centered software engineering, AI in corporate education, and inclusive design for diverse professionals.  
 
 ---
 
@@ -15,11 +19,40 @@ Currently, I work as a **Research Fellow** at [ZUP Innovation](https://www.zup.c
 
 - 🎓 PhD in Computer Science @ [UFPE](https://www.cin.ufpe.br)
 - 🔬 Postdoc: Accessibility for neurodiverse users in urban mobility contexts (with [Prof. Kiev Gama](https://www.cin.ufpe.br/~kiev/))
-- 💼 Researcher in AI, Human Factors in SE, and Software Engineering Education at ZUP Innovation
-- 👨‍🏫 Professor and advisor (Master & PhD) at CESAR School
-- 🌱 Always learning: Statistics • Python • Pandas • Machine Learning
+- 💼 Researcher in AI, Future of Work, Human Factors in SE, and Software Engineering Education at ZUP Innovation
+- 👨‍🏫 Professor and advisor (Undergraduate, Master & PhD) at CESAR School
+- 🌱 Always learning: Statistics • Python • Pandas • Machine Learning • Responsible AI
 
 ---
+## 📌 Current Research Focus
+
+- Future of Work with AI  
+- Human-AI hybrid teams  
+- Well-being and inclusion at work  
+- Corporate education in computing  
+
+---
+
+## 📚 Research & Publications
+
+- [Google Scholar](https://scholar.google.com/citations?user=aFIranwAAAAJ&hl=pt-BR)  
+- [ResearchGate](https://www.researchgate.net/profile/Danilo-Ribeiro-7)
+
+---
+
+## 🧩 BRIDGE-LAB
+
+We research **AI, Future of Work, Corporate Education, and Inclusive HCI**.  
+
+[Visit BRIDGE-LAB →](https://github.com/BridgeResearchLab)  
+
+Badges:  
+![Human-Centered AI](https://img.shields.io/badge/Human--Centered%20AI-blue) 
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-green) 
+![Corporate Education](https://img.shields.io/badge/Corporate%20Education-orange) 
+
+---
+
 
 ## 🚀 Skills
 
@@ -54,14 +87,9 @@ Currently, I work as a **Research Fellow** at [ZUP Innovation](https://www.zup.c
 
 ---
 
+
 ## 🌐 Connect with Me
 
-[![Linkedin: Danilo](https://img.shields.io/badge/-Danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prof-danilo-monteiro/)](https://www.linkedin.com/in/prof-danilo-monteiro/)
-[![Gmail Badge](https://img.shields.io/badge/-prof.danilo.monteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.danilo.monteiro@gmail.com)](mailto:prof.danilo.monteiro@gmail.com)
-[![Lattes](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=Curriculum-Lattes&logoColor=white&link=http://lattes.cnpq.br/9054177799378154)](http://lattes.cnpq.br/9054177799378154)
-
-
-
-![image](https://user-images.githubusercontent.com/1639230/144163372-addb5133-ba1e-4891-80b2-75ee9ee5921d.png)
-![image](https://user-images.githubusercontent.com/1639230/144163505-1467cf36-8959-4ed2-ad31-bce4209eaf01.png)
-![image](https://user-images.githubusercontent.com/1639230/222976765-07bf1d02-a2ce-42c4-9f1e-c1f0bc274f7b.png)
+[![Linkedin: Danilo](https://img.shields.io/badge/-Danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prof-danilo-monteiro/)](https://www.linkedin.com/in/prof-danilo-monteiro/)  
+[![Gmail Badge](https://img.shields.io/badge/-prof.danilo.monteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.danilo.monteiro@gmail.com)](mailto:prof.danilo.monteiro@gmail.com)  
+[![Lattes](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=Curriculum-Lattes&logoColor=white&link=http://lattes.cnpq.br/9054177799378154)](http://lattes.cnpq.br/9054177799378154)  
