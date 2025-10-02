@@ -7,9 +7,7 @@
 
 I'm a PhD in Computer Science working to bridge research and practice—advancing AI in software engineering, shaping the future of work, and empowering developers through strategic learning.
 
-Currently, I work as a **Research Fellow** at [ZUP Innovation](https://www.zup.com.br/), where I lead applied research on AI-powered developer tools and collaborate with HR to foster learning and well-being through data.  
-
-I'm also a **professor and advisor** (Undergraduate, MSc, and PhD) at [Cesar School](https://www.cesar.school), where I supervise research on **AI, future of work, and corporate education in computing**.  
+Currently, I work as **professor ** (Undergraduate, MSc, and PhD) at [Cesar School](https://www.cesar.school), where I supervise research on **AI, future of work, and corporate education in computing**.  
 
 In addition, I coordinate [**BRIDGE-LAB**](https://github.com/BridgeResearchLab), a research group focused on human-centered software engineering, AI in corporate education, and inclusive design for diverse professionals.  
 
